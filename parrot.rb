@@ -14,5 +14,5 @@ end
  end
    
    def parrot(phrase)
-     puts "Squawk!"
+     puts "Pretty bird!"
 end 
