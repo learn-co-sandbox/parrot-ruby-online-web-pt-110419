@@ -16,4 +16,3 @@ end
    def parrot(phrase)
      puts "Squawk!"
 end 
-parrot("phrase")
